@@ -240,10 +240,10 @@ namespace AlperenPolat_19219046
                     Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("zh");
                     break;
                 case 2:
-                    Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("zh");
+                    Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("tr");
                     break;
                 case 3:
-                    Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("fr-fr");
+                    Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("fr");
                     break;
 
             }
