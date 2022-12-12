@@ -62,20 +62,20 @@ namespace AlperenPolat_19219046
             // 
             // tabControl1
             // 
+            resources.ApplyResources(this.tabControl1, "tabControl1");
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
-            resources.ApplyResources(this.tabControl1, "tabControl1");
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
             // 
             // tabPage1
             // 
+            resources.ApplyResources(this.tabPage1, "tabPage1");
             this.tabPage1.Controls.Add(this.label2);
             this.tabPage1.Controls.Add(this.label5);
             this.tabPage1.Controls.Add(this.textBox1);
             this.tabPage1.Controls.Add(this.button10);
             this.tabPage1.Controls.Add(this.label1);
-            resources.ApplyResources(this.tabPage1, "tabPage1");
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
@@ -108,6 +108,7 @@ namespace AlperenPolat_19219046
             // 
             // tabPage2
             // 
+            resources.ApplyResources(this.tabPage2, "tabPage2");
             this.tabPage2.Controls.Add(this.label4);
             this.tabPage2.Controls.Add(this.button9);
             this.tabPage2.Controls.Add(this.button8);
@@ -118,7 +119,6 @@ namespace AlperenPolat_19219046
             this.tabPage2.Controls.Add(this.button3);
             this.tabPage2.Controls.Add(this.button2);
             this.tabPage2.Controls.Add(this.button1);
-            resources.ApplyResources(this.tabPage2, "tabPage2");
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
@@ -130,56 +130,56 @@ namespace AlperenPolat_19219046
             // 
             // button9
             // 
-            this.button9.BackColor = System.Drawing.Color.LightYellow;
             resources.ApplyResources(this.button9, "button9");
+            this.button9.BackColor = System.Drawing.Color.LightYellow;
             this.button9.Name = "button9";
             this.button9.UseVisualStyleBackColor = false;
             this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button8
             // 
-            this.button8.BackColor = System.Drawing.Color.LightYellow;
             resources.ApplyResources(this.button8, "button8");
+            this.button8.BackColor = System.Drawing.Color.LightYellow;
             this.button8.Name = "button8";
             this.button8.UseVisualStyleBackColor = false;
             this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button7
             // 
-            this.button7.BackColor = System.Drawing.Color.LightYellow;
             resources.ApplyResources(this.button7, "button7");
+            this.button7.BackColor = System.Drawing.Color.LightYellow;
             this.button7.Name = "button7";
             this.button7.UseVisualStyleBackColor = false;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button6
             // 
-            this.button6.BackColor = System.Drawing.Color.LightYellow;
             resources.ApplyResources(this.button6, "button6");
+            this.button6.BackColor = System.Drawing.Color.LightYellow;
             this.button6.Name = "button6";
             this.button6.UseVisualStyleBackColor = false;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button5
             // 
-            this.button5.BackColor = System.Drawing.Color.LightYellow;
             resources.ApplyResources(this.button5, "button5");
+            this.button5.BackColor = System.Drawing.Color.LightYellow;
             this.button5.Name = "button5";
             this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button4
             // 
-            this.button4.BackColor = System.Drawing.Color.LightYellow;
             resources.ApplyResources(this.button4, "button4");
+            this.button4.BackColor = System.Drawing.Color.LightYellow;
             this.button4.Name = "button4";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button3
             // 
-            this.button3.BackColor = System.Drawing.Color.LightYellow;
             resources.ApplyResources(this.button3, "button3");
+            this.button3.BackColor = System.Drawing.Color.LightYellow;
             this.button3.ForeColor = System.Drawing.SystemColors.ControlText;
             this.button3.Name = "button3";
             this.button3.UseVisualStyleBackColor = false;
@@ -187,16 +187,16 @@ namespace AlperenPolat_19219046
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.LightYellow;
             resources.ApplyResources(this.button2, "button2");
+            this.button2.BackColor = System.Drawing.Color.LightYellow;
             this.button2.Name = "button2";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.LightYellow;
             resources.ApplyResources(this.button1, "button1");
+            this.button1.BackColor = System.Drawing.Color.LightYellow;
             this.button1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button1.Name = "button1";
             this.button1.UseVisualStyleBackColor = false;
@@ -208,31 +208,34 @@ namespace AlperenPolat_19219046
             // 
             // listBox1
             // 
-            this.listBox1.FormattingEnabled = true;
             resources.ApplyResources(this.listBox1, "listBox1");
+            this.listBox1.FormattingEnabled = true;
             this.listBox1.Name = "listBox1";
             // 
             // label3
             // 
             resources.ApplyResources(this.label3, "label3");
+            this.label3.AccessibleRole = System.Windows.Forms.AccessibleRole.MenuBar;
             this.label3.Name = "label3";
             // 
             // listBox2
             // 
-            this.listBox2.FormattingEnabled = true;
             resources.ApplyResources(this.listBox2, "listBox2");
+            this.listBox2.FormattingEnabled = true;
             this.listBox2.Name = "listBox2";
             // 
             // comboBox1
             // 
+            resources.ApplyResources(this.comboBox1, "comboBox1");
+            this.comboBox1.Cursor = System.Windows.Forms.Cursors.SizeWE;
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
             resources.GetString("comboBox1.Items"),
             resources.GetString("comboBox1.Items1"),
             resources.GetString("comboBox1.Items2"),
             resources.GetString("comboBox1.Items3")});
-            resources.ApplyResources(this.comboBox1, "comboBox1");
             this.comboBox1.Name = "comboBox1";
+            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // label6
             // 
