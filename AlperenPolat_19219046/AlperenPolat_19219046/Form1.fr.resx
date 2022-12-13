@@ -118,43 +118,40 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="label2.Text" xml:space="preserve">
-    <value>Bilgisayar, ekrandaki 9 kutuyu rastgele şekilde boyayacak. Oyuncu, bu sırayı bozmadan işaretleme yapacaktır. Yanlış işaretleme yaparsanız oyun yeniden başlar. Tek şansınız var!</value>
+    <value>L’ordinateur colorera les 9 boîtes sur l’écran au hasard. Le joueur suivra le modèle en cliquant sur les tuiles. Si vous cliquez sur la mauvaise tuile, le jeu redémarrera. Vous n’avez qu’une seule chance !</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>95, 20</value>
+    <value>118, 20</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Oyuncu Adı</value>
+    <value>Nom de joueur</value>
   </data>
   <data name="button10.Text" xml:space="preserve">
-    <value>Oyunu Başlat</value>
+    <value>Démarrer le jeu</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>119, 20</value>
+    <value>137, 20</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Nasıl Oynanır?</value>
-  </data>
-  <data name="tabPage1.Text" xml:space="preserve">
-    <value>Menü</value>
+    <value>Comment jouer ?</value>
   </data>
   <data name="tabPage2.Text" xml:space="preserve">
-    <value>Oyun Ekranı</value>
+    <value>Écran de jeu</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>517, 102</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>120, 19</value>
+    <value>158, 19</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>SKOR TABLOSU</value>
-  </data>
-  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>544, 44</value>
+    <value>TABLEAU DE SCORES</value>
   </data>
   <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>34, 15</value>
+    <value>71, 15</value>
   </data>
   <data name="label6.Text" xml:space="preserve">
-    <value>DİL:</value>
+    <value>langue :</value>
   </data>
 </root>
