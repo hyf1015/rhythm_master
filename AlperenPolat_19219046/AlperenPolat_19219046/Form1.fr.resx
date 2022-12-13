@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="tabPage2.Text" xml:space="preserve">
+    <value>Écran de jeu</value>
+  </data>
   <data name="label2.Text" xml:space="preserve">
     <value>L’ordinateur colorera les 9 boîtes sur l’écran au hasard. Le joueur suivra le modèle en cliquant sur les tuiles. Si vous cliquez sur la mauvaise tuile, le jeu redémarrera. Vous n’avez qu’une seule chance !</value>
   </data>
@@ -135,9 +138,6 @@
   </data>
   <data name="label1.Text" xml:space="preserve">
     <value>Comment jouer ?</value>
-  </data>
-  <data name="tabPage2.Text" xml:space="preserve">
-    <value>Écran de jeu</value>
   </data>
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
     <value>517, 102</value>
